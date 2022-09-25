@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\4-2\Interfacing and Microcontroller\MicroController Lab Practice(Bijon)\Servo Motor Interfacing (0-90-180)\Code\ServoMotorInterfacing.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\4-2\Interfacing and Microcontroller\MicroController Lab Practice(Bijon)\Servo Motor Interfacing (0-90-180)\Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "ServoMotorInterfacing.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_PWM_c21.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	ServoMotorInterfacing.c
+diagnostics: 41	123	Compiled Successfully	ServoMotorInterfacing.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 350 (99%)
+hint: 0	1144	Used ROM (program words): 170 (2%)  Free ROM (program words): 8022 (98%)	Used ROM (program words): 170 (2%)  Free ROM (program words): 8022 (98%)
+diagnostics: 0	125	Project Linked Successfully	ServoMotorInterfacing.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'ServoMotorInterfacing.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 22 Sep 2022, 23:42:30	ServoMotorInterfacing.mcppi

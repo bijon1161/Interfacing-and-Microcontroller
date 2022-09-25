@@ -1,0 +1,12 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"I:\Microcontroller lab practice\Analog to digital conversion\code\analog_to_digital_conversion.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"I:\Microcontroller lab practice\Analog to digital conversion\code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "analog_to_digital_conversion.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl" "__Lib_CType.mcl" "__Lib_CString.mcl" "__Lib_CStdlib.mcl" "__Lib_Conversions.mcl" "__Lib_ADC_A_C.mcl" "__Lib_UART_c67.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	analog_to_digital_conversion.c
+warning: 8	1509	Generated baud rate is 9615 bps (error = 0.16 percent)	analog_to_digital_conversion.c
+diagnostics: 26	123	Compiled Successfully	analog_to_digital_conversion.c
+diagnostics: 0	127	All files Compiled in 79 ms	 
+hint: 0	1144	Used RAM (bytes): 44 (12%)  Free RAM (bytes): 308 (88%)	Used RAM (bytes): 44 (12%)  Free RAM (bytes): 308 (88%)
+hint: 0	1144	Used ROM (program words): 447 (5%)  Free ROM (program words): 7745 (95%)	Used ROM (program words): 447 (5%)  Free ROM (program words): 7745 (95%)
+diagnostics: 0	125	Project Linked Successfully	analog_to_digital_conversion.mcppi
+diagnostics: 0	128	Linked in 15 ms	 
+diagnostics: 0	129	Project 'analog_to_digital_conversion.mcppi' completed: 250 ms	 
+diagnostics: 0	103	Finished successfully: 19 Sep 2022, 19:05:59	analog_to_digital_conversion.mcppi

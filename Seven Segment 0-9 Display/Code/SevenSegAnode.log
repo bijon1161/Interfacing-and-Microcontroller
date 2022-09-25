@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"E:\4-2\Interfacing and Microcontroller\MicroController Lab Practice(Bijon)\Seven Segment 0-9 Display\Code\SevenSegAnode.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"E:\4-2\Interfacing and Microcontroller\MicroController Lab Practice(Bijon)\Seven Segment 0-9 Display\Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "SevenSegAnode.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	SevenSegAnode.c
+diagnostics: 19	123	Compiled Successfully	SevenSegAnode.c
+diagnostics: 0	127	All files Compiled in 47 ms	 
+hint: 0	1144	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)	Used RAM (bytes): 14 (4%)  Free RAM (bytes): 338 (96%)
+hint: 0	1144	Used ROM (program words): 97 (1%)  Free ROM (program words): 8095 (99%)	Used ROM (program words): 97 (1%)  Free ROM (program words): 8095 (99%)
+diagnostics: 0	125	Project Linked Successfully	SevenSegAnode.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'SevenSegAnode.mcppi' completed: 188 ms	 
+diagnostics: 0	103	Finished successfully: 19 Sep 2022, 14:30:15	SevenSegAnode.mcppi

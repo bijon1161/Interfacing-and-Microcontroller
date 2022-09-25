@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F877A -DL -O11111114 -fo8 -N"I:\Microcontroller Lab Assignment\Problem1\Problem1 Code\Problem_1_code.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"I:\Microcontroller Lab Assignment\Problem1\Problem1 Code\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" "Problem_1_code.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 352 [bytes], Available ROM: 8192 [bytes]	 
+diagnostics: 0	122	Compilation Started	Problem_1_code.c
+diagnostics: 156	123	Compiled Successfully	Problem_1_code.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RAM (bytes): 26 (7%)  Free RAM (bytes): 326 (93%)	Used RAM (bytes): 26 (7%)  Free RAM (bytes): 326 (93%)
+hint: 0	1144	Used ROM (program words): 595 (7%)  Free ROM (program words): 7597 (93%)	Used ROM (program words): 595 (7%)  Free ROM (program words): 7597 (93%)
+diagnostics: 0	125	Project Linked Successfully	Problem_1_code.mcppi
+diagnostics: 0	128	Linked in 16 ms	 
+diagnostics: 0	129	Project 'Problem_1_code.mcppi' completed: 234 ms	 
+diagnostics: 0	103	Finished successfully: 15 Sep 2022, 22:48:57	Problem_1_code.mcppi
